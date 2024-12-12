@@ -15,7 +15,7 @@ public class Place {
         return name;
     }
 
-    public int getDistance(int distance) {
+    public int getDistance() {
 
         return distance;
     }
